@@ -9,10 +9,8 @@
 
         public Peca(Tabuleiro tab, Cor cor)
         {
-            this.posicao = null;
             this.tab = tab;
             this.cor = cor;
-            this.qteMovimentos = 0;
         }
     }
 }
